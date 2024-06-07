@@ -46,7 +46,7 @@
 - 🔗 [Github Themes VS Code Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 - 🔗 [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 - 🔗 [Specificity Calculator](https://specificity.keegan.st/)
-- 🔗 [HTML Special Characters](https://unicode-table.com)
+- 🔗 [HTML Special Characters](https://symbl.cc)
 - 🔗 [Can I Use](https://caniuse.com/)
 
 ### 🕹️ Learning Games
